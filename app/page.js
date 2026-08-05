@@ -25,7 +25,7 @@ export default function Home() {
             <Link href="#pricing" className="btn btn-primary">
               Chọn Công Cụ
             </Link>
-            <Link href="#demo" className="btn btn-ghost">
+            <Link href="https://www.youtube.com/watch?v=X_OL65Wk2vo" className="btn btn-ghost">
               Video Thực Tế
             </Link>
           </div>
