@@ -29,14 +29,7 @@ export default function Home() {
               Video Thực Tế
             </Link>
           </div>
-          <div className="video-frame" id="demo">
-                  <iframe
-                src="https://www.youtube.com/embed/X_OL65Wk2vo"
-                title="Video demo"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowFullScreen
-                loading="lazy"
-              />
+          <div className="video-frame" src="https://www.youtube.com/embed/X_OL65Wk2vo" id="demo">
             <div className="play">▶</div>
             <span className="cap">Video demo</span>
           </div>
